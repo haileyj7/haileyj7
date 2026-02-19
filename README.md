@@ -10,9 +10,9 @@
 
 I am a 2024 Data Science graduate from Colorado State University! I am currently working as a commercial underwriting assistant with USLI, where I am gaining valuable real-world experience as an insurance professional. I am interested in furthering my statistics education, but in the meantime, I am excited to explore various industries and opportunities where I can continue to develop my analytical skills.
 
-During my time at CSU, I took interest in practicing statistical inference and communication, data visualization, and machine learning. I gained experience tutoring precalculus math and introductory statistics, working as a statistics TA, and completing and presenting a statistics research project at an undergraduate research showcase.
+During my time at CSU, I took interest in practicing statistical inference and communication, data visualization, and machine learning. I gained experience tutoring precalculus math and introductory statistics, working as a statistics TA, and completing a research project in statistics.
 
-Looking forward, I am hoping to pivot to a more quantitative and technical role, where I can apply and develop more of my statistical skills. I am open to exploring different positions where I can assist with data or financial analysis, reporting, forecasting, visualization, and communication.
+Looking forward, I am hoping to pivot to a more quantitative and technical role, where I can apply and develop more of my statistical skills. I am open to exploring different positions where I can assist with data or financial analysis, reporting, forecasting, visualization, communication, and more.
 
 I am most experienced in R, Python, and Excel, where I would say I have beginner to intermediate skills. I am also a beginner in SQL, Tableau, and Power BI. I am eager to grow my experience and pick up new skills.
 
