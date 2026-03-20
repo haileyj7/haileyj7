@@ -10,9 +10,9 @@
 
 I am a 2024 Data Science graduate from Colorado State University. I'm interested in exploring different industries and opportunities where I hope to develop my analytical skills while creating real impact.
 
-During my time at CSU, I took the most interest in studying statistical inference and communication, data visualization, and machine learning. I gained work experience as a tutor in precalculus math and introductory statistics, working as a statistics TA, and completing a paid research project.
+During my time at CSU, I took the most interest in studying statistical inference and communication, data visualization, and machine learning. Aside from my courses, I also worked as a tutor in precalculus math and statistics, and completed a statistics research project.
 
-Looking forward, I'm excited to explore opportunities where I can assist with data or financial analysis, reporting, forecasting, visualization, communication, and more.
+Looking forward, I'm excited to explore opportunities where I can assist with data/financial analysis, reporting, forecasting, visualization, communication, and more.
 
 I am most experienced in R, Python, and Excel, where I would say I have beginner to intermediate skills. I am also a beginner in SQL, Tableau, and Power BI. I am eager to grow my experience and pick up new skills.
 
