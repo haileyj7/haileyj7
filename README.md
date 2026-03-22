@@ -14,7 +14,7 @@ During my time at CSU, I took the most interest in studying statistical inferenc
 
 Looking forward, I'm excited to explore opportunities where I can assist with data/financial analysis, reporting, forecasting, visualization, communication, and more.
 
-I am most experienced in R, Python, and Excel, where I would say I have beginner to intermediate skills. I am also a beginner in SQL, Tableau, and Power BI. I am eager to grow my experience and pick up new skills.
+I am most experienced in R, Python, and Excel, where I would say I have beginner to intermediate skills. I am also a beginner in SQL, Tableau, and Power BI. I am eager to learn, gain experience, and pick up new skills.
 
 ## 🛠️ Technical Skillset
 
